@@ -94,6 +94,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['add_product'])) {
     <meta charset="UTF-8" />
     <title>Админ-панель</title>
     <link rel="stylesheet" href="style/style_admin.css">
+    <link rel="icon" href="gui/logo.ico" type="image/x-icon" />
 </head>
 <?php include 'includes/header.php'; ?>
 <style>
