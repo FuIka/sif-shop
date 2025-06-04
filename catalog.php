@@ -47,6 +47,7 @@ $products = $stmt->fetchAll();
     <meta charset="UTF-8" />
     <title>Каталог товаров</title>
     <link rel="stylesheet" href="style/style_catalog.css" />
+    <link rel="icon" href="gui/logo.ico" type="image/x-icon" />
     <style>
         body {
             font-family: Arial, sans-serif;
