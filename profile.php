@@ -86,6 +86,7 @@ $conn_close_needed = false;
     <meta charset="UTF-8" />
     <title>Профиль</title>
     <link rel="stylesheet" href="style/style_reglog.css" />
+    <link rel="icon" href="gui/logo.ico" type="image/x-icon" />
     <style>
         h2 {
             text-align: center;
